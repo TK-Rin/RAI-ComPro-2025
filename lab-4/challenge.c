@@ -17,7 +17,7 @@ int main ()
             break;
         case 3:
             printf("Enter amount to withdraw: ");scanf("%d", &num);
-            printf("\nWithdrawal successful.");
+            printf("Withdrawal successful.\n");
             bal -= num;
             break;
         case 4:
